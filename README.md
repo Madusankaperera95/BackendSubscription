@@ -5,6 +5,10 @@ one or more websites
 Whenever a new post is published on a particular website, all its subscribers shall receive an email with the post
 title and description in it
 
+## Requirements
+    PHP version: 8.0
+    MySQL
+    Laravel version: 9.x
 
 ## Installation
 
