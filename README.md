@@ -10,7 +10,7 @@ title and description in it
 
 #### 1. Download
 
-      git clone https://github.com/Madusankaperera95/StudentManagement  
+      git clone https://github.com/Madusankaperera95/BackendSubscription
 
 #### 2. Environment Files
 This package ships with a .env.example file in the root of the project.
