@@ -1,6 +1,9 @@
-## Student Management System
+## Subscription System
 
-This is a simple Students managemnet system develped using laravel,Mysql ,Ajax
+This is a simple Subscription system develped using laravel.) in which users can subscribe to
+one or more websites
+Whenever a new post is published on a particular website, all its subscribers shall receive an email with the post
+title and description in it
 
 
 ## Installation
